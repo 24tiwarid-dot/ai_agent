@@ -1,8 +1,5 @@
 streamlit
 python-dotenv
+groq
 tavily-python
-openai
 requests
-langchain
-langchain-openai
-langchain-community
