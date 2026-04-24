@@ -3,3 +3,6 @@ python-dotenv
 tavily-python
 openai
 requests
+langchain
+langchain-openai
+langchain-community
